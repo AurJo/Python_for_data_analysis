@@ -18,7 +18,7 @@ La base de données contient des enregistrements pour 1885 répondants. Pour cha
 * pays de résidence
 * appartenance ethnique. 
 
-Tous les attributs d'entrée sont à l'origine catégoriques et sont quantifiés. Après la quantification, les valeurs de toutes les entités en entrée peuvent être considérées comme des valeurs réelles. 
+Tous les attributs d'entrées sont à l'origine catégoriques et sont quantifiés. Après la quantification, les valeurs de toutes les entités en entrée peuvent être considérées comme des valeurs réelles. 
 
 En outre, les participants ont été interrogés sur l’utilisation de 18 drogues licites et illégales : 
 * alcool, 
@@ -86,7 +86,7 @@ Toutes les données sont numériques. Grâce à la documentation obtenues sur ht
 ## Détermination des hyperparamètres 
 
 ### Support Vector Machine (SVM)
-En essaytn avec différents valeurs de gamma, j'obtiens le meilleur résultat avec gamma = 0,7.
+En essayant avec différents valeurs de gamma, j'obtiens le meilleur résultat avec gamma = 0,7.
 
 
 ### K-Nearest Neighbors (KNN)
