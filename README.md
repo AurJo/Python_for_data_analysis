@@ -109,7 +109,7 @@ A l'aide d'une boucle sur toutes les colonnes de drogues, je sépare le dataset 
 
 # Résultats et conclusion
 
-![Résultats](/img/resulats.PNG)
+![Résultats](/img/resultats.PNG)
 
 Grâce à ce tableau, je peux voir quel modèle est le plus apte à prédire la consommation des différentes drogues. 
 
