@@ -65,20 +65,20 @@ Toutes les données sont numériques. Grâce à la documentation obtenues sur ht
 
 # Visualisation des données 
 ## Distribution des utilisateurs par le nombre de drogues utilisées
-![Distribution des utilisateurs par le nombre de drogues utilisées](/img/distribution_drogues.png)
+![Distribution des utilisateurs par le nombre de drogues utilisées](./img/distribution_drogues.PNG)
 
 ## Classement des drogues légales et illégales les plus utilisées hier
-![Classement des drogues illégales les plus utilisées hier](/img/classement_drogues_illegales.png)
+![Classement des drogues illégales les plus utilisées hier](/img/classement_drogues_illegales.PNG)
 
-![Classement des drogues légales les plus utilisées hier](/img/classement_drogues_legales.png)
+![Classement des drogues légales les plus utilisées hier](/img/classement_drogues_legales.PNG)
 
 
 ## Distribution des drogués de cocaïne en fonction de l'age
-![Distribution des drogués de cocaïne en fonction de l'age](/img/distribution_cocaine_age.png)
+![Distribution des drogués de cocaïne en fonction de l'age](/img/distribution_cocaine_age.PNG)
 
 
 ## Distribution des drogués de cocaïne en fonction de son pays d'origine
-![Distribution des drogués de cocaïne en fonction du pays de résidence](/img/distribution_cocaine_country.png)
+![Distribution des drogués de cocaïne en fonction du pays de résidence](/img/distribution_cocaine_country.PNG)
 
 
 # Modélisation
@@ -92,14 +92,14 @@ En essaytn avec différents valeurs de gamma, j'obtiens le meilleur résultat av
 ### K-Nearest Neighbors (KNN)
 Je détermine la meilleure valeur de K estimators. 
 
-![K-Nearest Neighbors](/img/knn.png)
+![K-Nearest Neighbors](/img/knn.PNG)
 Dans ce cas d'exemple, je trouve un K=14 avec une précision de 0.783. 
 
 
 ### Random Forest 
 Je détermine la meilleure valeur de N estimators. 
 
-![K-Nearest Neighbors](/img/random_forest.png)
+![K-Nearest Neighbors](/img/random_forest.PNG)
 Dans ce cas d'exemple, je trouve un N = 63 avec une précision de 0.793.
 
 
@@ -109,7 +109,7 @@ A l'aide d'une boucle sur toutes les colonnes de drogues, je sépare le dataset 
 
 # Résultats et conclusion
 
-![Résultats](/img/resulats.png)
+![Résultats](/img/resulats.PNG)
 
 Grâce à ce tableau, je peux voir quel modèle est le plus apte à prédire la consommation des différentes drogues. 
 
